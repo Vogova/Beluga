@@ -1,0 +1,32 @@
+.rodape{
+    text-align: center;
+    position: absolute;
+    height: 90px;
+    width: 842px;
+    justify-content: center;
+    background-color: white;
+    margin-top: 560px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid #3c1c18;
+    border-radius: 20px;
+    margin-top: 1060px;
+}
+
+.rodapetext{
+    color: #3c1c18;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#copy{
+    float: left;
+    padding: 35px;
+}
+
+#priv{
+    float: right;
+    padding: 35px;
+}

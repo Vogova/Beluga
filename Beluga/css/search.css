@@ -1,0 +1,35 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.search_box{
+    margin-top: 40px;
+    background-color: #ecd1ba;
+    position: relative;
+    padding: 18px;
+    border-radius: 50px;
+    display: flex;
+    width: 80%;
+    border: solid #3c1c18;
+    
+
+}
+
+#search{
+    width: 1px;
+    height: 1px;
+    margin-bottom: 39px;
+}
+
+.input_search{
+    margin-left: 45px;
+    width: 100%;
+    border: solid #3c1c18;  
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3c1c18;
+}
+

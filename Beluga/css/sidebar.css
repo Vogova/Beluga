@@ -1,0 +1,23 @@
+#checkicon{
+    display: none;
+}
+
+nav{
+    background-color: #ecd1ba;
+    height: 100%;
+    width: 350px;
+    border:5px solid #3c1c18;
+    left: -360px;
+    position: fixed;
+}
+
+
+.lowbar{
+    width: 75%;
+    margin-top: 74px;
+    height: 50px;
+}
+
+#hot{
+    width: 100px;
+}

@@ -1,0 +1,79 @@
+a{
+    width: 60%;
+    height: 280px;
+    text-decoration: none;
+    color: #3c1c18;
+}
+
+body{
+    margin: auto;
+    background-image: url("../img/BelugaBack.png");
+    display: flex;
+    cursor: default;
+    justify-content: center;
+}
+
+
+header{
+    background-color: #ecd1ba;
+    width: 100%;
+    height: 69px;
+    font-family:'Courier New', Courier, monospace, bold;
+    border: 5px solid #3c1c18;
+    position: fixed;
+    font-weight: bold;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#icon{
+    padding: 5px; 
+    padding-left: 10px; 
+    display: flexbox;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+.title{
+    text-align: center;
+    width: 100% auto;
+    margin: 0 auto;
+    display: flexbox;
+    position: relative;
+    top: 5px;
+    font-size: 50px;
+    color: #3c1c18;
+}
+
+#main{
+    background-color: white;
+    height: 845px;
+    width: 800px;
+    margin: 0 auto;
+    color: #3c1c18;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace, bold;
+    padding: 20px;
+    font-weight: normal;
+    border: 5px solid #3c1c18;
+    border-top: 0px;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-top: 980px;;
+}
+
+hr{
+    color: #3c1c18;
+    width: 100%;
+    height: 5px;
+    background-color: #3c1c18;
+    border: none;
+}
+

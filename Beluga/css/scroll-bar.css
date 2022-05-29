@@ -1,0 +1,15 @@
+::-webkit-scrollbar{
+    width: 12px;
+    background-color: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8a8a8a;
+    border-radius: 5px;
+
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b3b3b3;
+    transition: 1000ms;
+  }
